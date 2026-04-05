@@ -3,14 +3,23 @@ TODO: Document project here
 
 A clean, responsive, frontend-only finance dashboard built with modern web technologies. Users can view financial summaries, explore transactions, understand spending patterns, and simulate role-based access control.
 
-🔗 **Live Demo:** [Deployed on Lovable](https://id-preview--30a9e670-6d53-4062-bbfd-5ebfd30b9f66.lovable.app)
+🔗 **Live Demo:** (https://id-preview--30a9e670-6d53-4062-bbfd-5ebfd30b9f66.lovable.app)
 
 ---
 
 ## 📸 Screenshots
 
 The app features a Dashboard overview, Transactions management, and Insights page — all with dark mode support.
+<h2 align="center">📸 Project Screenshots</h2>
 
+<p align="center">
+  <img src="SS1.png" width="45%" />
+  <img src="SS2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="SS3.png" width="60%" />
+</p>
 ---
 
 ## 🛠 Tech Stack
