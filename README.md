@@ -3,7 +3,7 @@ TODO: Document project here
 
 A clean, responsive, frontend-only finance dashboard built with modern web technologies. Users can view financial summaries, explore transactions, understand spending patterns, and simulate role-based access control.
 
-🔗 **Live Demo:** (https://id-preview--30a9e670-6d53-4062-bbfd-5ebfd30b9f66.lovable.app)
+🔗 **Live Demo:** [Deployed on Vercel](https://fin-dash-ten-lilac.vercel.app/)
 
 ---
 
