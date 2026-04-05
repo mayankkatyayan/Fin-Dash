@@ -151,21 +151,6 @@ npm run build
 
 ---
 
-## 🌐 Deployment (Netlify)
-
-| Setting | Value |
-|---|---|
-| **Build command** | `npm run build` |
-| **Publish directory** | `dist` |
-| **Node version** | 18+ |
-
-Steps:
-1. Push code to GitHub.
-2. Connect the repo in Netlify.
-3. Set the build settings above.
-4. Deploy.
-
----
 
 ## 🔄 How Role Switching Works
 
@@ -202,7 +187,7 @@ Steps:
 
 ##  License
 
-This project was built for assignment purpose.
+This project was built for educational purpose.
 By: Mayank Katyayan
 
 ## Connect with Me
